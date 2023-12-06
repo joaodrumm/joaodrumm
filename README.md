@@ -6,14 +6,14 @@
 </div>    
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Assembly" height="32" width="32" src="https://raw.githubusercontent.com/joaodrumm/Art/main/assembly.svg"/>
   <img align="center" alt="C" height="32" width="32" src="https://raw.githubusercontent.com/joaodrumm/Art/main/c.svg"/>
-  <img align="center" alt="OpenGL" height="32" width="32" src="https://raw.githubusercontent.com/joaodrumm/Art/main/opengl.svg"/>
+  <img align="center" alt="OpenGL" height="32" width="32" src="https://raw.githubusercontent.com/joaodrumm/Art/main/rustacean.svg"/>
+  <img align="center" alt="Assembly" height="32" width="32" src="https://raw.githubusercontent.com/joaodrumm/Art/main/python.svg"/>
 </div>
 
 ### Hi there 👋
 
-- 🔭 I’m working on a C & OpenGL project
-- 🌱 I’m learning Vulkan
-- 👯 I’m looking to collaborate on C++ & OpenGL projects
+- 🔭 I’m working on a OpenGL project
+- 🌱 I’m learning Vulkan & WebGPU
+- 👯 I’m looking to collaborate on OpenGL projects
 - 📫 How to reach me: joaodrumm@gmail.com
