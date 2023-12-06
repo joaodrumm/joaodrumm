@@ -8,7 +8,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="C" height="32" width="32" src="https://raw.githubusercontent.com/joaodrumm/Art/main/c.svg"/>
   <img align="center" alt="Rust" height="32" width="32" src="https://raw.githubusercontent.com/joaodrumm/Art/main/rustacean.svg"/>
-  <img align="center" alt="Python" height="34" width="34" src="https://raw.githubusercontent.com/joaodrumm/Art/main/python.png"/>
+  <img align="center" alt="Python" height="36" width="36" src="https://raw.githubusercontent.com/joaodrumm/Art/main/python.png"/>
 </div>
 
 ### Hi there 👋
