@@ -6,7 +6,7 @@
 </div>    
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="C" height="32" width="32" src="https://raw.githubusercontent.com/joaodrumm/Art/main/c.svg"/>
+  <img align="center" alt="C" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
   <img align="center" alt="Rust" height="32" width="32" src="https://raw.githubusercontent.com/joaodrumm/Art/main/rustacean.svg"/>
   <img align="center" alt="Python" height="38" width="38" src="https://raw.githubusercontent.com/joaodrumm/Art/main/python.png"/>
 </div>
@@ -17,3 +17,4 @@
 - 🌱 I’m learning Vulkan & WebGPU
 - 👯 I’m looking to collaborate on OpenGL projects
 - 📫 How to reach me: joaodrumm@gmail.com
+          
